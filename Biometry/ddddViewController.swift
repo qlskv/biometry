@@ -2,7 +2,7 @@
 //  ddddViewController.swift
 //  Biometry
 //
-//  Created by 이순빈 on 2021/07/14.
+//  Created by bin on 2021/07/14.
 //  Copyright © 2021 Youngchai Song. All rights reserved.
 //
 
