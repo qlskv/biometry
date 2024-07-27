@@ -2,7 +2,7 @@
 //  PinViewController.swift
 //  Biometry
 //
-//  Created by 이순빈 on 2021/07/15.
+//  Created by bin on 2021/07/15.
 //  Copyright © 2021 Youngchai Song. All rights reserved.
 //
 
